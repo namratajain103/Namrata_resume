@@ -1,0 +1,39 @@
+.data-container{
+    height: calc(100vh - 54px);
+    overflow: auto;
+}
+
+.navbar{
+    height: 54px;
+}
+
+.min-height{
+    min-height: calc(100vh - 54px);
+}
+
+.bg-img{
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.profile-img{
+    background-image: url(assets/pexels-photo-3740400.jpeg);
+}
+
+.edu-img{
+    background-image: url(assets/books.jpeg);
+}
+
+.skill-img{
+    background-image: url(assets/skill.jpeg);
+}
+
+.contact-img{
+    background-image: url(assets/pexels-photo-263564.jpeg);
+}
+
+.card-body{
+    background-color: rgba(255, 255, 255,0.5);
+}
+
